@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ing. Béla Majoroš</h1>
 <h3 align="center">A passionate Software Engineer from Slovakia. \br</h3>
 
-- 🔭 I am actively pursuing career opportunities following the successful **completion of my university degree.**
+- 🔭 I am actively pursuing career opportunities following the successful completion of my university degree.
+
+- 🌱 I’m currently learning **DevOps.**
 
 - 📫 How to reach me **becimajoros99@gmail.com**
 
