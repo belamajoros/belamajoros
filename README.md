@@ -3,8 +3,6 @@
 
 - 🔭 I am currently working at Software AG as a Full-stack Software Enginner.
 
-/*- 🌱 I’m currently learning **DevOps.***/
-
 - 📫 How to reach me: **becimajoros99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
