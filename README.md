@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working at Software AG as a Full-stack Software Enginner.
 
-- 📫 How to reach me: **becimajoros99@gmail.com**
+- 📫 How to reach me: **becimajoros99@gmail.com**, **bela.majoros@softwareag.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
