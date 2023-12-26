@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ing. Béla Majoroš</h1>
 <h3 align="center">A passionate Software Engineer from Slovakia.</h3>
 
-- 🔭 I am actively pursuing career opportunities following the successful completion of my university degree.
+- 🔭 I am currently working at Software AG as a Full-stack Software Enginner.
 
 - 🌱 I’m currently learning **DevOps.**
 
